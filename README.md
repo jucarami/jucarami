@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Camilo</h1>
 
-<!--
-**jucarami/jucarami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Ingeniero informático · Analítica e ingeniería de datos</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Con qué trabajo
+
+Construyo pipelines, modelos de datos y dashboards que la gente sí usa para decidir. Mi día a día va entre ingeniería de datos, automatización y BI, y ahora mismo me estoy especializando en analítica de datos.
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+## 🚀 Proyectos destacados
+
+- **[<nombre-repo-1>](https://github.com/<usuario>/<repo-1>)**: <qué problema resuelve en una línea> (stack: Python, Airflow, dbt)
+- **[<nombre-repo-2>](https://github.com/<usuario>/<repo-2>)**: <qué problema resuelve en una línea> (stack: Spark, Delta)
+- **[<nombre-repo-3>](https://github.com/<usuario>/<repo-3>)**: <qué problema resuelve en una línea> (stack: Power BI, DAX)
+
+## 📫 Contacto
+
+- LinkedIn: [<tu-perfil>](https://www.linkedin.com/in/<tu-perfil>)
+- Correo: <tu-correo>
+
+## 📊 GitHub stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<usuario>&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<usuario>&layout=compact&theme=dark&hide_border=true" />
+</p>
