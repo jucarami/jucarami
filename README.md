@@ -1,9 +1,3 @@
-<h1 align="center">Hola 👋, soy Camilo</h1>
-
-<h3 align="center">Ingeniero informático · Especialista en Analítica de datos</h3>
-
----
-
 <!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Camilo&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20datos%20%C2%B7%20Anal%C3%ADtica%20%C2%B7%20BI&descAlignY=60&descSize=20" />
