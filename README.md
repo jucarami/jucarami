@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Camilo</h1>
 
-<h3 align="center">Ingeniero informático · Analítica e ingeniería de datos</h3>
+<h3 align="center">Ingeniero informático · specialista en Analítica de datos</h3>
 
 ---
 
@@ -27,8 +27,8 @@ Construyo pipelines, modelos de datos y dashboards que la gente sí usa para dec
 
 ## 📫 Contacto
 
-- LinkedIn: [<tu-perfil>](https://www.linkedin.com/in/<tu-perfil>)
-- Correo: <tu-correo>
+- LinkedIn: [<tu-perfil>](www.linkedin.com/in/juancamiloramirezchaverra>)
+- Correo: <camilo.jcrc098@gmail.com>
 
 ## 📊 GitHub stats
 
