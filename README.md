@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Juan Camilo Ramirez&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20datos%20%C2%B7%20Anal%C3%ADtica%20%C2%B7%20BI&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Juan%20Camilo%20Ram%C3%ADrez&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Ingeniero%20de%20datos%20%C2%B7%20Anal%C3%ADtica%20%C2%B7%20BI&descAlignY=60&descSize=20" />
 </p>
 
 <!-- TEXTO ANIMADO -->
