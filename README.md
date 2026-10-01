@@ -19,15 +19,11 @@ Construyo pipelines, modelos de datos y dashboards que la gente sí usa para dec
   <img src="https://img.shields.io/badge/Microsoft_Fabric-117865?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
-## 🚀 Proyectos destacados
 
-- **[<nombre-repo-1>](https://github.com/<usuario>/<repo-1>)**: <qué problema resuelve en una línea> (stack: Python, Airflow, dbt)
-- **[<nombre-repo-2>](https://github.com/<usuario>/<repo-2>)**: <qué problema resuelve en una línea> (stack: Spark, Delta)
-- **[<nombre-repo-3>](https://github.com/<usuario>/<repo-3>)**: <qué problema resuelve en una línea> (stack: Power BI, DAX)
 
 ## 📫 Contacto
 
-- LinkedIn: [<tu-perfil>](www.linkedin.com/in/juancamiloramirezchaverra>)
+- LinkedIn: [<www.linkedin.com/in/juancamiloramirezchaverra>)
 - Correo: <camilo.jcrc098@gmail.com>
 
 ## 📊 GitHub stats
