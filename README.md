@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<tu-perfil>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:<tu-correo>"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/<www.linkedin.com/in/juancamiloramirezchaverra>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:<camilo.jcrc098@gmail.com>"><img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-FCD116?style=for-the-badge&logo=googlemaps&logoColor=black" />
   <img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge" />
 </p>
@@ -19,14 +19,24 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy ingeniero informático (UNAULA) y trabajo en el sector público, en un equipo de **automatización y analítica**. Mi trabajo va desde levantar los datos y limpiarlos hasta dejar el tablero funcionando y automatizar lo repetitivo.
+Soy ingeniero informático y me muevo en el punto donde los datos desordenados se vuelven algo útil. He trabajado en el sector público y en el privado, y en los dos me ha tocado lo mismo: agarrar información regada en Excel, correos y sistemas que no se hablan entre sí, y dejarla ordenada, confiable y lista para decidir.
 
-Lo que más me gusta es agarrar un proceso manual, lleno de Excel y correos, y convertirlo en algo que corre solo y que cualquiera puede consultar.
+Lo que he hecho hasta ahora:
 
-- 🔭 Ahora mismo: **especialización en Analítica de Datos** (UNAULA) y preparando la certificación **DP-600 (Fabric Analytics Engineer)**
-- 🛠️ Trabajando en: dashboards de control y alertas tempranas, ETLs en Python y automatización de procesos
-- 🌱 Aprendiendo a fondo: orquestación con Airflow, modelado con dbt y Spark
-- 💬 Pregúntame de: Power BI y DAX, modelado dimensional, automatización con Power Automate, VBA (sí, todavía existe)
+- 🧱 Armar pipelines en **Azure Synapse y Microsoft Fabric**, moviendo los datos desde la capa bronce hasta plata y oro, listos para análisis.
+- 📊 Construir **tableros y reportes paginados en Power BI**, con modelos y consultas DAX optimizados para que carguen rápido y los números cuadren.
+- 🧹 Limpiar y validar datos (calidad, duplicados, reglas de negocio) antes de que lleguen a un tablero, porque un dashboard bonito con datos malos es peor que no tener dashboard.
+- 🤖 Automatizar procesos manuales con **Python, Power Automate, Power Apps y VBA**. Sí, VBA también, porque a veces es la herramienta que la gente ya tiene instalada.
+- 🚨 Diseñar tableros de control y alertas tempranas para equipos que antes se enteraban de los problemas cuando ya era tarde.
+
+Me gusta que lo que construyo sobreviva a mi ausencia: que corra solo, que esté documentado y que alguien más pueda tocarlo sin miedo.
+
+**Ahora mismo**
+
+- 🎓 Haciendo la **especialización en Analítica de Datos**
+- 📜 Preparando la certificación **DP-600 (Fabric Analytics Engineer)**
+- 🌱 Metiéndole horas a **Airflow, dbt y Spark** con proyectos propios (varios de los repos de abajo salen de ahí)
+- 💬 Pregúntame de: Power BI y DAX, modelado dimensional, ETL en Python, Fabric y automatización
 
 ---
 
